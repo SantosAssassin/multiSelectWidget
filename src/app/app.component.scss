@@ -1,0 +1,48 @@
+.label{
+    font-size: 13px;
+    color: grey;
+}
+
+.action-button{
+    color: #1691CE;
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.multi-select{
+    border: 1px solid grey;
+    background-color: #F8FDFF;
+    padding: 10px;
+    font-size: 12px;
+    min-height: 80px;
+}
+
+.form-values{
+    height: fit-content;
+    border: 1px solid #a2a2a2;
+    padding: 5px 15px;
+    width: fit-content;
+    color: #000000;
+    cursor: pointer;
+}
+
+.form-values:hover{
+    background-color: #e2e2e2;
+}
+
+.form-values-selected{
+    height: fit-content;
+    border: 1px solid #a2a2a2;
+    padding: 5px 15px;
+    width: fit-content;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #168FCD;
+}
+
+.arrow{
+    cursor: pointer;
+}
